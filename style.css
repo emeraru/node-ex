@@ -22,7 +22,12 @@
 
 	h1
 	{
-		font-size: 2rem;
+		width: 100%;
+		padding:1rem;
+		background-color: hsla(200, 80%, 80%, 1);
+		margin: 0 auto 5rem;
+		color: hsla(200, 100%, 100%, 1);
+		font-size: 3rem;
 		text-align: center;
 	}
 
